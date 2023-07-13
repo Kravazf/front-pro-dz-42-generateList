@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+#wrapper {
+    width: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+#main {
+    padding: 50px 0px;
+    margin: 0 auto;
+    padding: 0 30px;
+    justify-content: center;
+    align-items: center;
+    }
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(55, 192, 85);
+}
+
+img {
+    max-width: 100%;
+    height: auto
+}
+
+ul {
+    list-style: none;
+}
